@@ -1,5 +1,73 @@
-# 💫 About Me:
-# 💻 Muchammad Fahd Ishamuddin<br><br>### 🚀 Data Analyst | Data Scientist | Business Intelligence Enthusiast<br><br>📍 Bandung, Indonesia\<br>📧 [fxhdmhmmd@gmail.com](mailto\:fxhdmhmmd@gmail.com)\<br>🔗 [LinkedIn](https://linkedin.com/in/fahd-muchammad/) | [Portfolio](https://linktr.ee/fahdmuchammad) | [Tableau Public](#)<br><br>---<br><br>## 🛠️ About Me<br><br>I am a **Data Analyst & Data Scientist** passionate about transforming raw data into actionable insights. With expertise in **SQL, Python, Power BI, Tableau, and Machine Learning**, I thrive on solving complex business problems with data-driven solutions. My experience spans **customer segmentation, sentiment analysis, predictive modeling, and ETL pipeline optimization**.<br><br>🚀 Currently exploring **Business Intelligence, Data Engineering, and Advanced Machine Learning**.<br><br>---<br><br>## 🔥 Featured Projects<br><br>### 📊 **E-Commerce Customer Segmentation (RFM Analysis)**<br><br>- **Segmented 100,000+ customers** using **RFM analysis & clustering (K-Means, HDBSCAN)** to enhance **customer retention strategies**.<br>- **Optimized marketing spend** and improved customer retention by **20%**.<br>- **Tools & Tech:** Python, Pandas, Scikit-learn, Power BI, Tableau.\<br>  🔗 [GitHub Repo](#) | 📊 [Tableau Dashboard](#)<br><br>### 📉 **Telco Customer Churn Prediction**<br><br>- Built **predictive models** to identify at-risk customers using **classification models (Logistic Regression, Random Forest, XGBoost)**.<br>- Simulated a **91% reduction in customer acquisition costs** by improving retention efforts.<br>- **Tools & Tech:** Python, SQL, Scikit-learn, Power BI.\<br>  🔗 [GitHub Repo](#) | 📊 [Tableau Dashboard](#)<br><br>### 💬 **Sentiment Analysis on Pilpres 2024**<br><br>- Analyzed **100,000+ Tweets reviews** to classify sentiments (Positive, Neutral, Negative).<br>- Implemented **NLP techniques** (TF-IDF, Word2Vec, LSTM) to improve sentiment accuracy.<br>- **Tools & Tech:** Python, NLTK, Scikit-learn, TensorFlow.\<br>  🔗 [GitHub Repo](#)<br><br>---<br><br>## 🛠️ Technical Skills<br><br>- **Programming & Data Analysis:** Python (Pandas, NumPy, Scikit-learn), SQL, Power BI, Tableau.<br>- **Machine Learning & AI:** Classification, Clustering, NLP, Sentiment Analysis.<br>- **Data Processing & ETL:** Data Cleaning, Web Scraping, Feature Engineering.<br>- **Business Intelligence:** Data Visualization, Dashboarding, Google Data Studio.<br><br>---<br><br>## 📈 GitHub Stats<br><br><br><br><br><br>---<br><br>## 🤝 Let's Connect!<br><br>I'm always open to collaboration on **data-related projects, research, and consulting**. Feel free to reach out! 🚀<br><br>📩 [Email](mailto\:fxhdmhmmd@gmail.com) | 🌐 [Portfolio](https://linktr.ee/fahdmuchammad)<br><br>---<br><br>⭐ **If you like my work, consider giving it a star!** ⭐<br><br>
+# 💻 Muchammad Fahd Ishamuddin
+
+### 🚀 Data Analyst | Data Scientist | Business Intelligence Enthusiast
+
+📍 Bandung, Indonesia\
+📧 [fxhdmhmmd@gmail.com](mailto\:fxhdmhmmd@gmail.com)\
+🔗 [LinkedIn](https://linkedin.com/in/fahd-muchammad/) | [Portfolio](https://linktr.ee/fahdmuchammad) | [Tableau Public](#)
+
+---
+
+## 🛠️ About Me
+
+I am a **Data Analyst & Data Scientist** passionate about transforming raw data into actionable insights. With expertise in **SQL, Python, Power BI, Tableau, and Machine Learning**, I thrive on solving complex business problems with data-driven solutions. My experience spans **customer segmentation, sentiment analysis, predictive modeling, and ETL pipeline optimization**.
+
+🚀 Currently exploring **Business Intelligence, Data Engineering, and Advanced Machine Learning**.
+
+---
+
+## 🔥 Featured Projects
+
+### 📊 **E-Commerce Customer Segmentation (RFM Analysis)**
+
+- **Segmented 100,000+ customers** using **RFM analysis & clustering (K-Means, HDBSCAN)** to enhance **customer retention strategies**.
+- **Optimized marketing spend** and improved customer retention by **20%**.
+- **Tools & Tech:** Python, Pandas, Scikit-learn, Power BI, Tableau.\
+  🔗 [GitHub Repo](#) | 📊 [Tableau Dashboard](#)
+
+### 📉 **Telco Customer Churn Prediction**
+
+- Built **predictive models** to identify at-risk customers using **classification models (Logistic Regression, Random Forest, XGBoost)**.
+- Simulated a **91% reduction in customer acquisition costs** by improving retention efforts.
+- **Tools & Tech:** Python, SQL, Scikit-learn, Power BI.\
+  🔗 [GitHub Repo](#) | 📊 [Tableau Dashboard](#)
+
+### 💬 **Sentiment Analysis on Pilpres 2024**
+
+- Analyzed **100,000+ Tweets reviews** to classify sentiments (Positive, Neutral, Negative).
+- Implemented **NLP techniques** (TF-IDF, Word2Vec, LSTM) to improve sentiment accuracy.
+- **Tools & Tech:** Python, NLTK, Scikit-learn, TensorFlow.\
+  🔗 [GitHub Repo](#)
+
+---
+
+## 🛠️ Technical Skills
+
+- **Programming & Data Analysis:** Python (Pandas, NumPy, Scikit-learn), SQL, Power BI, Tableau.
+- **Machine Learning & AI:** Classification, Clustering, NLP, Sentiment Analysis.
+- **Data Processing & ETL:** Data Cleaning, Web Scraping, Feature Engineering.
+- **Business Intelligence:** Data Visualization, Dashboarding, Google Data Studio.
+
+---
+
+## 📈 GitHub Stats
+
+
+
+
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always open to collaboration on **data-related projects, research, and consulting**. Feel free to reach out! 🚀
+
+📩 [Email](mailto\:fxhdmhmmd@gmail.com) | 🌐 [Portfolio](https://linktr.ee/fahdmuchammad)
+
+---
+
+⭐ **If you like my work, consider giving it a star!** ⭐
+
 
 
 # 💻 Tech Stack:
