@@ -4,7 +4,7 @@
 
 📍 Bandung, Indonesia\
 📧 [fxhdmhmmd@gmail.com](mailto\:fxhdmhmmd@gmail.com)\
-🔗 [LinkedIn](https://linkedin.com/in/fahd-muchammad/) | [Portfolio](https://linktr.ee/fahdmuchammad) | [Tableau Public](#)
+🔗 [LinkedIn](https://linkedin.com/in/fahd-muchammad/) | [Portfolio](https://linktr.ee/fahdmuchammad) 
 
 ---
 
@@ -23,21 +23,21 @@ I am a **Data Analyst & Data Scientist** passionate about transforming raw data 
 - **Segmented 100,000+ customers** using **RFM analysis & clustering (K-Means, HDBSCAN)** to enhance **customer retention strategies**.
 - **Optimized marketing spend** and improved customer retention by **20%**.
 - **Tools & Tech:** Python, Pandas, Scikit-learn, Power BI, Tableau.\
-  🔗 [GitHub Repo](#) | 📊 [Tableau Dashboard](#)
+  🔗 [GitHub Repo](https://github.com/fahdmuchammad/Capstone-3-Purwadhika-Machine-learning) | 📊 [Tableau Dashboard](https://public.tableau.com/profile/api/publish/Oliste-commerceDashboard/Story1) | [Deploy](https://sigmadtiolist.streamlit.app/)
 
 ### 📉 **Telco Customer Churn Prediction**
 
 - Built **predictive models** to identify at-risk customers using **classification models (Logistic Regression, Random Forest, XGBoost)**.
 - Simulated a **91% reduction in customer acquisition costs** by improving retention efforts.
 - **Tools & Tech:** Python, SQL, Scikit-learn, Power BI.\
-  🔗 [GitHub Repo](#) | 📊 [Tableau Dashboard](#)
+  🔗 [GitHub Repo](https://github.com/fahdmuchammad/capstone_2_pwd) | 📊 [Tableau Dashboard](https://public.tableau.com/app/profile/muchammad.fahd.ishamuddin/viz/Capstone2_17308145882250/BusinessAnalysisNYCTaxi?publish=yes)
 
 ### 💬 **Sentiment Analysis on Pilpres 2024**
 
 - Analyzed **100,000+ Tweets reviews** to classify sentiments (Positive, Neutral, Negative).
 - Implemented **NLP techniques** (TF-IDF, Word2Vec, LSTM) to improve sentiment accuracy.
 - **Tools & Tech:** Python, NLTK, Scikit-learn, TensorFlow.\
-  🔗 [GitHub Repo](#)
+  🔗 [GitHub Repo](https://github.com/fahdmuchammad/Sentiment) | [Deploy](https://sentimenpilpres2024.streamlit.app/)
 
 ---
 
@@ -47,22 +47,6 @@ I am a **Data Analyst & Data Scientist** passionate about transforming raw data 
 - **Machine Learning & AI:** Classification, Clustering, NLP, Sentiment Analysis.
 - **Data Processing & ETL:** Data Cleaning, Web Scraping, Feature Engineering.
 - **Business Intelligence:** Data Visualization, Dashboarding, Google Data Studio.
-
----
-
-## 📈 GitHub Stats
-
-
-
-
-
----
-
-## 🤝 Let's Connect!
-
-I'm always open to collaboration on **data-related projects, research, and consulting**. Feel free to reach out! 🚀
-
-📩 [Email](mailto\:fxhdmhmmd@gmail.com) | 🌐 [Portfolio](https://linktr.ee/fahdmuchammad)
 
 ---
 
@@ -88,5 +72,13 @@ I'm always open to collaboration on **data-related projects, research, and consu
 
 ---
 [![](https://visitcount.itsvg.in/api?id=fahdmuchammad&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always open to collaboration on **data-related projects, research, and consulting**. Feel free to reach out! 🚀
+
+📩 [Email](mailto\:fxhdmhmmd@gmail.com) | 🌐 [Portfolio](https://linktr.ee/fahdmuchammad)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
