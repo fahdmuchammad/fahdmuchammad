@@ -23,14 +23,14 @@ I am a **Data Analyst & Data Scientist** passionate about transforming raw data 
 - **Segmented 100,000+ customers** using **RFM analysis & clustering (K-Means, HDBSCAN)** to enhance **customer retention strategies**.
 - **Optimized marketing spend** and improved customer retention by **20%**.
 - **Tools & Tech:** Python, Pandas, Scikit-learn, Power BI, Tableau.\
-  🔗 [GitHub Repo](https://github.com/fahdmuchammad/Capstone-3-Purwadhika-Machine-learning) | 📊 [Tableau Dashboard](https://public.tableau.com/profile/api/publish/Oliste-commerceDashboard/Story1) | [Deploy](https://sigmadtiolist.streamlit.app/)
+  🔗 [GitHub Repo](https://github.com/fahdmuchammad/Final_project_Sigma) | 📊 [Tableau Dashboard](https://public.tableau.com/profile/api/publish/Oliste-commerceDashboard/Story1) | [Deploy](https://sigmadtiolist.streamlit.app/)
 
 ### 📉 **Telco Customer Churn Prediction**
 
 - Built **predictive models** to identify at-risk customers using **classification models (Logistic Regression, Random Forest, XGBoost)**.
 - Simulated a **91% reduction in customer acquisition costs** by improving retention efforts.
 - **Tools & Tech:** Python, SQL, Scikit-learn, Power BI.\
-  🔗 [GitHub Repo](https://github.com/fahdmuchammad/capstone_2_pwd) | 📊 [Tableau Dashboard](https://public.tableau.com/app/profile/muchammad.fahd.ishamuddin/viz/Capstone2_17308145882250/BusinessAnalysisNYCTaxi?publish=yes) | [Deploy](https://telcochurnpredict.streamlit.app/)
+  🔗 [GitHub Repo](https://github.com/fahdmuchammad/Capstone-3-Purwadhika-Machine-learning) | 📊 [Tableau Dashboard](https://public.tableau.com/app/profile/muchammad.fahd.ishamuddin/viz/Capstone2_17308145882250/BusinessAnalysisNYCTaxi?publish=yes) | [Deploy](https://telcochurnpredict.streamlit.app/)
 
 ### 💬 **Sentiment Analysis on Pilpres 2024**
 
