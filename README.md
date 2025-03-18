@@ -30,7 +30,7 @@ I am a **Data Analyst & Data Scientist** passionate about transforming raw data 
 - Built **predictive models** to identify at-risk customers using **classification models (Logistic Regression, Random Forest, XGBoost)**.
 - Simulated a **91% reduction in customer acquisition costs** by improving retention efforts.
 - **Tools & Tech:** Python, SQL, Scikit-learn, Power BI.\
-  🔗 [GitHub Repo](https://github.com/fahdmuchammad/capstone_2_pwd) | 📊 [Tableau Dashboard](https://public.tableau.com/app/profile/muchammad.fahd.ishamuddin/viz/Capstone2_17308145882250/BusinessAnalysisNYCTaxi?publish=yes)
+  🔗 [GitHub Repo](https://github.com/fahdmuchammad/capstone_2_pwd) | 📊 [Tableau Dashboard](https://public.tableau.com/app/profile/muchammad.fahd.ishamuddin/viz/Capstone2_17308145882250/BusinessAnalysisNYCTaxi?publish=yes) | [Deploy](https://telcochurnpredict.streamlit.app/)
 
 ### 💬 **Sentiment Analysis on Pilpres 2024**
 
