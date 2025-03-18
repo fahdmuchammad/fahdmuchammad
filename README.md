@@ -32,6 +32,15 @@ I am a **Data Analyst & Data Scientist** passionate about transforming raw data 
 - **Tools & Tech:** Python, SQL, Scikit-learn, Power BI.\
   🔗 [GitHub Repo](https://github.com/fahdmuchammad/Capstone-3-Purwadhika-Machine-learning)| [Deploy](https://telcochurnpredict.streamlit.app/)
 
+### 🚖 **NYC Taxi Trip Analysis**
+
+- **Processed & cleaned 50,000+ taxi trip records**, ensuring data accuracy for analysis.  
+- **Performed EDA & statistical analysis**, identifying trends in **fare distribution, trip duration, and tipping behavior**.  
+- **Hypothesis Testing:** Conducted **t-tests** to compare tipping behavior between peak and off-peak hours (**p < 0.05**).  
+- **Correlation Analysis:** Found **moderate positive correlation (r ≈ 0.65)** between trip duration and fare.  
+- **Tools & Tech:** Python (Pandas, NumPy, Seaborn, Matplotlib), SQL, Tableau.\
+  🔗 [GitHub Repo](https://github.com/fahdmuchammad/capstone_2_pwd) | 📊 [Tableau Dashboard](https://public.tableau.com/app/profile/muchammad.fahd.ishamuddin/viz/Capstone2_17308145882250/BusinessAnalysisNYCTaxi) 
+
 ### 💬 **Sentiment Analysis on Pilpres 2024**
 
 - Analyzed **100,000+ Tweets reviews** to classify sentiments (Positive, Neutral, Negative).
