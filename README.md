@@ -76,13 +76,12 @@ I am a **Data Analyst & Data Scientist** passionate about transforming raw data 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=fahdmuchammad&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=fahdmuchammad&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ## 🤝 Let's Connect!
 
 I'm always open to collaboration on **data-related projects, research, and consulting**. Feel free to reach out! 🚀
 
 📩 [Email](mailto\:fxhdmhmmd@gmail.com) | 🌐 [Portfolio](https://linktr.ee/fahdmuchammad)
+
+[![](https://visitcount.itsvg.in/api?id=fahdmuchammad&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
